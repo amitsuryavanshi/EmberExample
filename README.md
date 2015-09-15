@@ -1,2 +1,2 @@
 # EmberExample
-Study Example Ember js project
+Study Example Ember js project.
